@@ -4,7 +4,10 @@
   , "version": "0.0.1"
   , "author": ""
   , "keywords": ["rate", "monitor", "limit", "monitoring", "performance"]
-  , "repository": "https://ftescht@bitbucket.org/ftescht/memory-rate.git"
+  , "repository": {
+        "type": "git",
+        "url": "https://github.com/ftescht/memory-rate.git"
+    }
   , "main": "./index.js"
   , "engines": { "node": ">= 0.1.98" }
 }
