@@ -1,0 +1,10 @@
+{
+    "name": "memory-rate"
+  , "description": "Rate monitoring and limiting for express.js apps."
+  , "version": "0.0.1"
+  , "author": ""
+  , "keywords": ["rate", "monitor", "limit", "monitoring", "performance"]
+  , "repository": "https://ftescht@bitbucket.org/ftescht/memory-rate.git"
+  , "main": "./index.js"
+  , "engines": { "node": ">= 0.1.98" }
+}
