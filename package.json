@@ -1,13 +1,15 @@
 {
-    "name": "memory-rate"
-  , "description": "Rate monitoring and limiting for express.js apps."
-  , "version": "0.0.1"
-  , "author": ""
-  , "keywords": ["rate", "monitor", "limit", "monitoring", "performance"]
-  , "repository": {
+    "name": "memory-rate",
+    "description": "Memory rate counter and limiter middleware for express.js",
+    "version": "0.0.2",
+    "author": "",
+    "keywords": ["rate", "limit"],
+    "main": "./index.js",
+    "repository": {
         "type": "git",
         "url": "https://github.com/ftescht/memory-rate.git"
+    },
+    "engines": {
+        "node": ">= 0.1.98"
     }
-  , "main": "./index.js"
-  , "engines": { "node": ">= 0.1.98" }
 }
