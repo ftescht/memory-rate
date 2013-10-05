@@ -1,15 +1,25 @@
 {
-    "name": "memory-rate",
-    "description": "Memory rate counter and limiter middleware for express.js",
-    "version": "0.0.4",
-    "author": "",
-    "keywords": ["rate", "limit"],
-    "main": "./index.js",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ftescht/memory-rate.git"
-    },
-    "engines": {
-        "node": "*"
-    }
+  "name": "memory-rate",
+  "description": "Memory rate counter and limiter middleware for express.js",
+  "version": "0.0.4",
+  "author": "Anton Veshnyakov <dasiderk@gmail.com> (http://ftescht.ru/)",
+  "keywords": [
+    "rate",
+    "limit"
+  ],
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ftescht/memory-rate.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/ftescht/memory-rate/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD-2-Clause"
 }
