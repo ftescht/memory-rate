@@ -1,7 +1,7 @@
 {
     "name": "memory-rate",
     "description": "Memory rate counter and limiter middleware for express.js",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "author": "",
     "keywords": ["rate", "limit"],
     "main": "./index.js",
@@ -10,6 +10,6 @@
         "url": "https://github.com/ftescht/memory-rate.git"
     },
     "engines": {
-        "node": ">= 0.1.98"
+        "node": "*"
     }
 }

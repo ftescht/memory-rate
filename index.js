@@ -1,1 +1,1 @@
-module.exports = require('./lib/rate');
+module.exports = require('./lib/main');
