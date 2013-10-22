@@ -1,7 +1,7 @@
 {
   "name": "memory-rate",
   "description": "Memory rate counter and limiter middleware for express.js",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Anton Veshnyakov <dasiderk@gmail.com> (http://ftescht.ru/)",
   "keywords": [
     "rate",
